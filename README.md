@@ -1,5 +1,5 @@
 # CP3406 Practicals
-## Third Year IT Subject Learning Android Development | 2017
+## Third Year IT Subject Learning Android Development
 Overall Mark Distinction.
 
 Learnt how to create android applications using andorid studio. This assessment was accompanied with two other applications displaying skills learnt here.
